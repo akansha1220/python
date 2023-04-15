@@ -1,0 +1,15 @@
+2023-04-07 13:44:16,667-exception handled-ERROR-root
+Traceback (most recent call last):
+  File "C:\Users\Nishi\AppData\Local\Temp\ipykernel_13336\103439817.py", line 2, in <module>
+    arg = int(input("Enter the age : "))
+ValueError: invalid literal for int() with base 10: 'hel'
+2023-04-07 13:44:47,071-exception handled-ERROR-root
+Traceback (most recent call last):
+  File "C:\Users\Nishi\AppData\Local\Temp\ipykernel_13336\103439817.py", line 2, in <module>
+    arg = int(input("Enter the age : "))
+ValueError: invalid literal for int() with base 10: 'ell'
+2023-04-07 13:45:08,997-exception occur-ERROR-root
+Traceback (most recent call last):
+  File "C:\Users\Nishi\AppData\Local\Temp\ipykernel_13336\477417913.py", line 2, in <module>
+    a = int(input("Enter the age:"))
+ValueError: invalid literal for int() with base 10: 'hell'
